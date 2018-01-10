@@ -14,5 +14,5 @@ contacts = {
  }
 
 puts remove_strawberry(contacts)
-end
+
 #To run this file, in the terminal type: ruby bin/contacts
